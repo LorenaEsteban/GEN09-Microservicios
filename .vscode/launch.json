@@ -20,6 +20,16 @@
             "projectName": "Gen09-Camiones",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Gen09RutasApplication<Gen09-Rutas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.vazquez.rutas.Gen09RutasApplication",
+            "projectName": "Gen09-Rutas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
