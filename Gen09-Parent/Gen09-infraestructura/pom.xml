@@ -13,6 +13,10 @@
 	<name>Gen09-infraestructura</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>pom</packaging>
+
+	<modules>
+		<module>Gen09-eureka2Server</module>
+	</modules>
 	
 	<properties>
 		
